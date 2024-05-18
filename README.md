@@ -4,7 +4,7 @@ This project is part of the COMP6200 Data Science unit. It involves further anal
 
 The goal is to train linear regression models to predict users' ratings towards items, exploring the impacts of feature selections and different sizes of training/testing data on model performance.
 
-![Dataset Description](../portfolio-part-1-leonguyen18/Fig1%20The%20Combined%20E%20commerce%20Dataset.png)
+![Dataset Description](./Fig1%20The%20Combined%20E%20commerce%20Dataset.png)
 
 ## Dataset
 
