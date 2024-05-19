@@ -77,6 +77,8 @@ The dataset, originating from several data sources, has been cleaned and merged 
   - Models trained with the most correlated features consistently outperform those with the least correlated features.
   - Model 1b (10% training data, least correlated features) had the worst performance (MSE: 1.84, RMSE: 1.36).
 
+![Model Comparison](./output_portfolio2.png)
+
 ### Data Science Ethics
 - The infographic on the 2008 Summer Olympic Medals raises concerns such as potential misinterpretation due to sorting criteria, presentation bias, and unbalanced representation.
 
